@@ -189,7 +189,7 @@ menu.on("select", value => alert(`선택된 값: ${value}`));
 */!*
 
 // 이벤트가 트리거 되면 핸들러가 실행되어 얼럿창이 뜸
-// 얼럿창 메시지: Value selected: 123
+// 얼럿창 메시지: 선택된 값: 123
 menu.choose("123");
 ```
 
